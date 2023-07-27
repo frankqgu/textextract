@@ -11,7 +11,7 @@ However, when they want to search the information, but it is difficult since fil
  2. Import documents into at able of mysql database, where they can search though the table conviently.
  3. Allow future engineers to use these text to train AI model like GPT, where the users could easily to get the question-answer.
 
-###MYSQL Guidethrough
+### MYSQL Guidethrough
 In mysql environment 
 create  dabase  office_text
 use office_text 
@@ -28,3 +28,4 @@ CREATE TABLE ppt_text(
 
 Note: The first field of the first column is auto-incremented.
 
+![Final Product](https://github.com/frankqgu/textextract/assets/130730924/8c62c57f-6e14-4950-9f9d-1ccf06ee1067)
